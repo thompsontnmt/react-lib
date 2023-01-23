@@ -66,6 +66,7 @@ const Pagination = props => {
         <div className='arrow right'/>
         </li>
         </ul>
+        // end of pagination
     );
 };
 
