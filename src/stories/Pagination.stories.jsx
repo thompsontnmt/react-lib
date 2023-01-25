@@ -1,5 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { Pagination } from '../components/Pagination';
+import { storiesOf } from '@storybook/react';
+import './pagination.scss';
 
 
 let PageSize = 10;
